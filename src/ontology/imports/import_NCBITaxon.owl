@@ -2089,6 +2089,16 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/NCBITaxon_1717 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_1717">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_1716"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncbitaxon.owl"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corynebacterium diphtheriae</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/NCBITaxon_174620 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_174620">
