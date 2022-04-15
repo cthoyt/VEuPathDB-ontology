@@ -92,6 +92,7 @@ http://purl.obolibrary.org/obo/OBI_0001626 #Bioinformatics Resource Center
 http://purl.obolibrary.org/obo/OBI_0001627 #country name
 http://purl.obolibrary.org/obo/OBI_0001628 #investigation identifier
 http://purl.obolibrary.org/obo/OBI_0001629 #grant ID
+http://purl.obolibrary.org/obo/OBI_0001637 #has disposition to bind
 http://purl.obolibrary.org/obo/OBI_0001876 #cell culture
 http://purl.obolibrary.org/obo/OBI_0001880 #organization of specimen provider principal investigator; relevant to
 http://purl.obolibrary.org/obo/OBI_0001881 #organization of Bioinformatics Resource Center contact person

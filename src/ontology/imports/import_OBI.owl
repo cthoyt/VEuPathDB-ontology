@@ -430,6 +430,20 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
     
 
 
+    <!-- http://purl.obolibrary.org/obo/OBI_0001637 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001637">
+        <obo:IAO_0000111>has disposition to bind</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000123"/>
+        <obo:IAO_0000115>A relationship between two material entitites that each have disposition to form a complex with the other. </obo:IAO_0000115>
+        <obo:IAO_0000116>This is a shortcut relation, and should expand to say that the two material entities have dispositions, point to the process in which they from a complex that realizes those dispositions, and points to the complex in which the two entities are &apos;bound to&apos; each other</obo:IAO_0000116>
+        <obo:IAO_0000119>IEDB</obo:IAO_0000119>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <rdfs:label>has disposition to bind</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/OBI_0001688 -->
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/OBI_0001688">
